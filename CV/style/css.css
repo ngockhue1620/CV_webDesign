@@ -1,0 +1,102 @@
+
+hr.hr-header {
+    height: 10px;
+    background-color: cadetblue;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+img.avata {
+    margin-left: 121px;
+    border-radius: 90%;
+    margin-top: -100px;
+}
+
+h1.my-name {
+    font-family: sans-serif;
+    font-family: sans-serif;
+    margin-left: 500px;
+    position: relative;
+    top: 32px;
+}
+h3.positain {
+        color: darkolivegreen;
+    margin-top: -3px;
+    font-weight: 100;
+    position: relative;
+    margin-left: 1000px;
+    top: 60px;
+    background: white;
+    width: fit-content;
+}
+h1.my-name.NAW::after {content: "____";color: red;/* width: 49px; 
+*/position: relative;
+left: -154px;top: 7px;}
+div.first_center {
+    margin-left: 85px;
+}
+img.icon {
+    width: 30px;
+}
+p.contact-positain {
+    position: relative;
+    top: -42px;
+    left: 43px;
+}
+hr.vertical {
+    width: 1px;
+    height: 100%;
+    position: absolute;
+    left: 450px;
+    top: 3px;
+    background:   blue;
+}
+span.contact-positain {
+    position: relative;
+    top: -5px;
+    left: 24px;
+    /* right: 3px; */
+}
+
+.contact-item {
+    padding: 5px;
+}
+p {
+    font-family: monospace;
+}
+
+
+span.skill-time {
+    margin-left: 90px;
+    position: relative;
+    top: -10px;
+    display: block;
+    right: -99px;
+}
+
+.skill {
+    background: gray;
+    height: 30px;
+    color: whitesmoke;
+    width: 357px;
+    margin-top: 1px;
+}
+span.skill-name {
+    position: relative;
+    top: 8px;
+}
+section {
+    display: flex;
+}
+
+article.infomation {
+    margin-left: 10px;
+}
+u {color: cornflowerblue;}
+span.font-style {
+    font-family: system-ui;
+}
+body {
+    margin-bottom: 37px;
+}
